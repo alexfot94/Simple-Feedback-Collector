@@ -1,5 +1,5 @@
 Name: Alex fot
-Email: aleksandros.fotiadis.th25a@iekdelta360.edu.gr
+Email: aleksandros.fotiadis@iekdelta360.edu.gr
 Message: this is a test
 ---
 Name: Alex Fot
